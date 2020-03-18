@@ -29,7 +29,7 @@ Presto project:
 * https://prestosql.io/docs/current/
 * https://prestosql.io/blog/
 * https://github.com/prestosql
-* https://prestosql.slack.com
+* https://prestosql.io/slack
 * https://stackoverflow.com/questions/tagged/presto
 
 ## Links
